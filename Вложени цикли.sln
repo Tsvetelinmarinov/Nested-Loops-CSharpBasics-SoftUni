@@ -1,9 +1,11 @@
 ﻿
 Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio Version 17
-VisualStudioVersion = 17.14.35821.62 d17.14
+VisualStudioVersion = 17.14.35821.62
 MinimumVisualStudioVersion = 10.0.40219.1
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Clock", "01. Clock\01. Clock.csproj", "{E77DA737-F6B6-4F3F-8CAD-5815F9FC702A}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiplication Table", "02. Multiplication Table\02. Multiplication Table.csproj", "{AF6FA771-4548-4C79-A979-BD988F95970F}"
 EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
@@ -15,6 +17,10 @@ Global
 		{E77DA737-F6B6-4F3F-8CAD-5815F9FC702A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E77DA737-F6B6-4F3F-8CAD-5815F9FC702A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E77DA737-F6B6-4F3F-8CAD-5815F9FC702A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{AF6FA771-4548-4C79-A979-BD988F95970F}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{AF6FA771-4548-4C79-A979-BD988F95970F}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{AF6FA771-4548-4C79-A979-BD988F95970F}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{AF6FA771-4548-4C79-A979-BD988F95970F}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
