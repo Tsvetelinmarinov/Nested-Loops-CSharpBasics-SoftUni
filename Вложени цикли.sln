@@ -7,6 +7,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Clock", "01. Clock\01. 
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Multiplication Table", "02. Multiplication Table\02. Multiplication Table.csproj", "{AF6FA771-4548-4C79-A979-BD988F95970F}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Combinations", "03. Combinations\03. Combinations.csproj", "{E889DA6E-804E-48E4-846A-CF05279752A7}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum Of Two Numbers", "04. Sum of Two Numbers\04. Sum Of Two Numbers.csproj", "{C8275850-AE5B-4211-8782-F9AEDED93239}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -21,6 +25,14 @@ Global
 		{AF6FA771-4548-4C79-A979-BD988F95970F}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AF6FA771-4548-4C79-A979-BD988F95970F}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AF6FA771-4548-4C79-A979-BD988F95970F}.Release|Any CPU.Build.0 = Release|Any CPU
+		{E889DA6E-804E-48E4-846A-CF05279752A7}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{E889DA6E-804E-48E4-846A-CF05279752A7}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{E889DA6E-804E-48E4-846A-CF05279752A7}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{E889DA6E-804E-48E4-846A-CF05279752A7}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C8275850-AE5B-4211-8782-F9AEDED93239}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C8275850-AE5B-4211-8782-F9AEDED93239}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C8275850-AE5B-4211-8782-F9AEDED93239}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C8275850-AE5B-4211-8782-F9AEDED93239}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
