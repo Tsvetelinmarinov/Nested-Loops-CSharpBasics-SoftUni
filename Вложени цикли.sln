@@ -13,6 +13,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Sum Of Two Numbers", "0
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Trip", "05. Trip\05. Trip.csproj", "{AEEC5119-1942-43B0-B5E1-7F63D2D511C9}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Building", "06. Building\06. Building.csproj", "{2754F10A-333B-43AA-82E2-2F0295421433}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -39,6 +41,10 @@ Global
 		{AEEC5119-1942-43B0-B5E1-7F63D2D511C9}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{AEEC5119-1942-43B0-B5E1-7F63D2D511C9}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{AEEC5119-1942-43B0-B5E1-7F63D2D511C9}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2754F10A-333B-43AA-82E2-2F0295421433}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2754F10A-333B-43AA-82E2-2F0295421433}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2754F10A-333B-43AA-82E2-2F0295421433}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2754F10A-333B-43AA-82E2-2F0295421433}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
